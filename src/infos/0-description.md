@@ -1,7 +1,7 @@
 ---
 layout: info
 id: intro
-title: 'Oi galera, falou Brasil!'
+title: Daar gaat ie!!!
 ---
 ### Chegamos um passo mais perto da singularidade!
 
