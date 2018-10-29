@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Onde Ficar ? Como chegar ?
+title: 'Have a sigar, your gone go far.'
 date: '2018-09-20T21:48:00-03:00'
 thumbnail: /uploads/image3.jpg
 rating: '5'
